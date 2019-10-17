@@ -1,0 +1,62 @@
+body{
+    background-image: url(../img/fondo2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: rgb(247, 250, 255);
+}
+
+footer{
+    text-align: center;
+    color: rgb(8, 253, 221);
+    font-family: cursive;
+    font-size: 1.3em;
+}
+
+#resultado{
+    color:white;
+}
+
+#multiplicar{
+    margin-left: 25%;
+    
+}
+body, input, a {
+    font-family: sans-serif
+   }
+   
+   header {
+    text-align: center
+   }
+   
+   main {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f0f0f0
+   }
+   
+   p {
+    margin: 1em
+   }
+   
+   label {
+    display: block;
+    font-size: small;
+    font-weight: bold
+   }
+   
+   label>* {
+    display: block;
+    width: 100%
+   }
+
+   .btn{
+    text-align: center;
+    margin-left: 47%;
+    width: 90px;
+    height: 25px;
+    font-family: cursive;
+   }

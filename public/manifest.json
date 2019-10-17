@@ -1,0 +1,15 @@
+{
+ "short_name": "pwayhl2",
+ "name": "YHL PWA 2.0",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#fff",
+ "theme_color": "#000",
+ "icons": [
+   {
+     "src": "img/icono.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
